@@ -55,7 +55,9 @@ fuente, RS.
 
 ![image](https://user-images.githubusercontent.com/85126275/127404219-d3e30196-797c-409b-af0b-95f7bcc90c46.png)
 
-### CIRCUITO ARMADO EN TINKERCAD 
+### CIRCUITO ARMADO EN TINKERCAD
+
+![image](https://user-images.githubusercontent.com/85126275/127409997-1a104959-6d3a-484a-9999-4b82c7491c53.png)
 
 3.4.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1
 
