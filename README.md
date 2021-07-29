@@ -61,65 +61,85 @@ fuente, RS.
 
 3.4.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1
 
-** Para el resistor de 220 Ω **
+**Para el resistor de 220 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 470 Ω ** 
+![image](https://user-images.githubusercontent.com/85126275/127420010-a17be8d0-1102-435b-8831-d9d34c4ee671.png)
+
+**Para el resistor de 470 Ω** 
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 680 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420195-f944fb39-5524-4ec4-920f-cf0119da4c4b.png)
+
+**Para el resistor de 680 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 820 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420314-34366051-a246-4ca1-a8df-6b83d10acb54.png)
+
+**Para el resistor de 820 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 1000 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420395-a9c9622d-f7a3-4666-aada-8fe1c80610d2.png)
+
+**Para el resistor de 1000 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 1500 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420460-560c8f07-5ad7-4808-b52b-6c1f2af0da2d.png)
+
+**Para el resistor de 1500 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 1800 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420536-7095442f-f18a-4bf1-93f0-7b71a542f76a.png)
+
+**Para el resistor de 1800 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 2200 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420602-ce200283-eb99-4240-912c-f02f7f0e8e61.png)
+
+**Para el resistor de 2200 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 3900 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420675-5485401a-657b-4fc4-acaf-141f9a12becc.png)
+
+**Para el resistor de 3900 Ω**
 
 Voltaje 
 
 Corriente 
 
-** Para el resistor de 4700 Ω **
+![image](https://user-images.githubusercontent.com/85126275/127420738-2a7a58e3-5893-4c2a-81c2-fd73d1e4afe6.png)
+
+**Para el resistor de 4700 Ω**
 
 Voltaje 
 
 Corriente 
+
+![image](https://user-images.githubusercontent.com/85126275/127420827-42a611f6-4a2d-4a19-9256-257338a2df03.png)
 
 3.4.3 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1
 
