@@ -61,7 +61,97 @@ fuente, RS.
 
 3.4.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1
 
+** Para el resistor de 220 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 470 Ω ** 
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 680 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 820 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 1000 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 1500 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 1800 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 2200 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 3900 Ω **
+
+Voltaje 
+
+Corriente 
+
+** Para el resistor de 4700 Ω **
+
+Voltaje 
+
+Corriente 
+
 3.4.3 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1
+
+** Para el resistor de 220 Ω **
+
+
+** Para el resistor de 470 Ω ** 
+
+
+** Para el resistor de 680 Ω **
+
+
+** Para el resistor de 820 Ω **
+
+
+** Para el resistor de 1000 Ω **
+
+
+** Para el resistor de 1500 Ω **
+
+
+** Para el resistor de 1800 Ω **
+
+
+** Para el resistor de 2200 Ω **
+
+
+** Para el resistor de 3900 Ω **
+
+
+** Para el resistor de 4700 Ω **
+
 
 Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
 
@@ -84,82 +174,4 @@ Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
 ## 5.  CONCLUCIONES
 
 ## 6.  BIBLIOGRAFÍA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
