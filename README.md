@@ -65,6 +65,8 @@ fuente, RS.
 
 Voltaje 
 
+![image](https://user-images.githubusercontent.com/85126275/127424779-e0f20a42-d585-4985-993f-32ff0866764a.png)
+
 Corriente 
 
 ![image](https://user-images.githubusercontent.com/85126275/127420010-a17be8d0-1102-435b-8831-d9d34c4ee671.png)
@@ -72,6 +74,8 @@ Corriente
 **Para el resistor de 470 Ω** 
 
 Voltaje 
+
+![image](https://user-images.githubusercontent.com/85126275/127425034-24fdbf14-c914-4380-80d6-4ad09dc0b59c.png)
 
 Corriente 
 
@@ -81,6 +85,8 @@ Corriente
 
 Voltaje 
 
+![image](https://user-images.githubusercontent.com/85126275/127425090-ad991fe0-005a-4e2f-a5c3-cd7ccc5d039a.png)
+
 Corriente 
 
 ![image](https://user-images.githubusercontent.com/85126275/127420314-34366051-a246-4ca1-a8df-6b83d10acb54.png)
@@ -88,6 +94,8 @@ Corriente
 **Para el resistor de 820 Ω**
 
 Voltaje 
+
+![image](https://user-images.githubusercontent.com/85126275/127425131-982ed369-02ba-4267-9900-a25ec824b6ea.png)
 
 Corriente 
 
@@ -97,6 +105,8 @@ Corriente
 
 Voltaje 
 
+![image](https://user-images.githubusercontent.com/85126275/127425169-bdc64d8f-8131-4f51-bd2f-a671a8166a84.png)
+
 Corriente 
 
 ![image](https://user-images.githubusercontent.com/85126275/127420460-560c8f07-5ad7-4808-b52b-6c1f2af0da2d.png)
@@ -104,6 +114,8 @@ Corriente
 **Para el resistor de 1500 Ω**
 
 Voltaje 
+
+![image](https://user-images.githubusercontent.com/85126275/127425261-a930a80a-77bf-47c8-9ae7-a5b72273297b.png)
 
 Corriente 
 
@@ -113,6 +125,8 @@ Corriente
 
 Voltaje 
 
+![image](https://user-images.githubusercontent.com/85126275/127425837-d61116e2-ff8a-4be4-83fe-d473f04870e3.png)
+
 Corriente 
 
 ![image](https://user-images.githubusercontent.com/85126275/127420602-ce200283-eb99-4240-912c-f02f7f0e8e61.png)
@@ -120,6 +134,8 @@ Corriente
 **Para el resistor de 2200 Ω**
 
 Voltaje 
+
+![image](https://user-images.githubusercontent.com/85126275/127425901-f6f48fc9-482e-4d6e-b127-50a8cb5cd41e.png)
 
 Corriente 
 
@@ -129,6 +145,8 @@ Corriente
 
 Voltaje 
 
+![image](https://user-images.githubusercontent.com/85126275/127425951-462e86f2-01c0-418f-b701-340cba000483.png)
+
 Corriente 
 
 ![image](https://user-images.githubusercontent.com/85126275/127420738-2a7a58e3-5893-4c2a-81c2-fd73d1e4afe6.png)
@@ -137,40 +155,42 @@ Corriente
 
 Voltaje 
 
+![image](https://user-images.githubusercontent.com/85126275/127426002-854c8a17-3f77-4cc6-a03e-155e2a204338.png)
+
 Corriente 
 
 ![image](https://user-images.githubusercontent.com/85126275/127420827-42a611f6-4a2d-4a19-9256-257338a2df03.png)
 
 3.4.3 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1
 
-** Para el resistor de 220 Ω **
+**Para el resistor de 220 Ω**
 
 
-** Para el resistor de 470 Ω ** 
+**Para el resistor de 470 Ω** 
 
 
-** Para el resistor de 680 Ω **
+**Para el resistor de 680 Ω**
 
 
-** Para el resistor de 820 Ω **
+**Para el resistor de 820 Ω**
 
 
-** Para el resistor de 1000 Ω **
+**Para el resistor de 1000 Ω**
 
 
-** Para el resistor de 1500 Ω **
+**Para el resistor de 1500 Ω**
 
 
-** Para el resistor de 1800 Ω **
+**Para el resistor de 1800 Ω**
 
 
-** Para el resistor de 2200 Ω **
+**Para el resistor de 2200 Ω**
 
 
-** Para el resistor de 3900 Ω **
+**Para el resistor de 3900 Ω**
 
 
-** Para el resistor de 4700 Ω **
+**Para el resistor de 4700 Ω**
 
 
 Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
