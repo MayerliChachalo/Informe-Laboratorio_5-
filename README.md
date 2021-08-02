@@ -15,7 +15,7 @@ carga mostrado en la tabla 6.1 y anote los resultados en la misma.
 
 ## 2.  MARCO TEORICO
 
-![image](https://user-images.githubusercontent.com/75383758/127920252-8c82c16f-48b6-4d88-8d3f-1cc4acd5568c.png)
+![image](https://user-images.githubusercontent.com/75383758/127920352-aed5d81b-a665-4506-aa6d-5be4be48919a.png)
 
 ## 3.  EXPLICACION DEL PROCEDIMIENTO 
 
