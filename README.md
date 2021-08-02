@@ -220,6 +220,14 @@ Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
 
 ## 5.  CONCLUCIONES
 
+- Con el estudio del Teorema de la Máxima Transferencia de Potencia se pudo conocer la forma de aprovechar al máximo la energía que proporcionan los elementos de nuestro circuito.
+
+- Se verificó que cuando la resistencia de carga es menor o mayor a la resistencia de Thévenin/Norton, su potencia disipada será menor que la máxima del circuito.
+
+- El voltaje de nuestra resistencia de carga será siempre, para la máxima potencia, la mitad del valor de la única fuente de voltaje que alimenta en el circuito armado en simulador.
+
+- Al obtener la transferencia máxima de potencia, la resistencia de carga debe adaptarse a las resistencias internas que tiene el circuito y por lo propio a la resistencia interna de las fuentes de voltaje.
+
 ## 6.  BIBLIOGRAFÍA
 
 Teorema de transferencia de potencia máxima. La Física y Química. (2021). Retrieved 2 August 2021, from https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/.
