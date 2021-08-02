@@ -211,7 +211,15 @@ Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
 
 ## 4.  VIDEO
 
+
+
 ## 5.  CONCLUCIONES
 
 ## 6.  BIBLIOGRAFÍA
+
+Teorema de transferencia de potencia máxima. La Física y Química. (2021). Retrieved 2 August 2021, from https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/.
+
+Teorema de la transferencia máxima de potencia - FisicaPractica.Com. Fisicapractica.com. (2021). Retrieved 2 August 2021, from https://www.fisicapractica.com/transferencia.php.
+
+M�xima transferencia de potencia.. Innovacionumh.es. (2021). Retrieved 2 August 2021, from https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm.
 
