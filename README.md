@@ -8,10 +8,13 @@ Integrantes: Chachalo Mayerli, Mensias Adrian, Rosero Andres
 
 **Objetivo general**
 
-Para el circuito de la figura 6.1, obtenga la potencia para cada valor de
-carga mostrado en la tabla 6.1 y anote los resultados en la misma.
+- Analizar y comprobar de forma teorica y experimental el teorema de la máxima transferencia de potencia, conociendo que todo circuito o fuente de voltaje tiene una resistencia interna, para así de esta forma verificar los valores calculados y valores medidos en el simulador con la razón de verificar la efectividad del teorema.
 
 **Objetivos específicos**
+
+- Aplicando los teorema anteriormente conocidos de Thévenin/Norton verificar que la resistencia de carga de nuestro circuito sea igual a la resistencia que se encontraba en los anteriores teoremas.
+
+- Conocer el funcionamiento de la resistencia de carga cuando esta sea más alta o más pequeña, con el fin de identificar cuanta cantidad de potencia es disipada del circuito y analizar si esta es menor a la máxima potencia del circuito.
 
 ## 2.  MARCO TEORICO
 
