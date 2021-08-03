@@ -70,7 +70,7 @@ fuente, RS.
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127424779-e0f20a42-d585-4985-993f-32ff0866764a.png)
+![image](https://user-images.githubusercontent.com/75383758/127961813-1b1b4d18-9fb9-493b-8295-1cc53a379006.png)
 
 Corriente 
 
@@ -80,7 +80,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425034-24fdbf14-c914-4380-80d6-4ad09dc0b59c.png)
+![image](https://user-images.githubusercontent.com/75383758/127961980-b1d9fa2a-5d39-4f53-bc72-55911f3da641.png)
 
 Corriente 
 
@@ -90,7 +90,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425090-ad991fe0-005a-4e2f-a5c3-cd7ccc5d039a.png)
+![image](https://user-images.githubusercontent.com/75383758/127962124-61c0027d-0039-4966-be0e-1c65e1043b7b.png)
 
 Corriente 
 
@@ -100,7 +100,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425131-982ed369-02ba-4267-9900-a25ec824b6ea.png)
+![image](https://user-images.githubusercontent.com/75383758/127962253-b277cb07-eb6a-4ae1-a9e1-6e58c0e9c316.png)
 
 Corriente 
 
@@ -110,7 +110,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425169-bdc64d8f-8131-4f51-bd2f-a671a8166a84.png)
+![image](https://user-images.githubusercontent.com/75383758/127962345-631635cc-3411-4219-9f17-7f59da36eefa.png)
 
 Corriente 
 
@@ -120,7 +120,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425261-a930a80a-77bf-47c8-9ae7-a5b72273297b.png)
+![image](https://user-images.githubusercontent.com/75383758/127962449-7024bdbf-b9d5-41ee-8bfd-24c7de761b9b.png)
 
 Corriente 
 
@@ -130,7 +130,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425837-d61116e2-ff8a-4be4-83fe-d473f04870e3.png)
+![image](https://user-images.githubusercontent.com/75383758/127962547-6d19dd91-2fc2-4f23-bca7-0a5a266f2e26.png)
 
 Corriente 
 
@@ -140,7 +140,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425901-f6f48fc9-482e-4d6e-b127-50a8cb5cd41e.png)
+![image](https://user-images.githubusercontent.com/75383758/127962675-bf002893-0caa-446c-be71-66aff821a553.png)
 
 Corriente 
 
@@ -150,7 +150,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127425951-462e86f2-01c0-418f-b701-340cba000483.png)
+![image](https://user-images.githubusercontent.com/75383758/127962763-dae86aae-0cb5-4dea-bd39-e61be9684045.png)
 
 Corriente 
 
@@ -160,7 +160,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/85126275/127426002-854c8a17-3f77-4cc6-a03e-155e2a204338.png)
+![image](https://user-images.githubusercontent.com/75383758/127962858-e8899280-9f56-4115-a3cb-57c268e24bc3.png)
 
 Corriente 
 
