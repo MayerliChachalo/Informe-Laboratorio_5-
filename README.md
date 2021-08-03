@@ -68,103 +68,44 @@ fuente, RS.
 
 **Para el resistor de 220 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128009844-c19123a0-4e3e-4813-8530-072282253dc0.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420010-a17be8d0-1102-435b-8831-d9d34c4ee671.png)
+![image](https://user-images.githubusercontent.com/85126275/128012399-88f13e73-c213-4a6d-a5a4-acb664a74474.png)
 
 **Para el resistor de 470 Ω** 
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128009906-f46ca295-5bd1-412b-b60b-09b951af585b.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420195-f944fb39-5524-4ec4-920f-cf0119da4c4b.png)
+![image](https://user-images.githubusercontent.com/85126275/128012507-1f24d4e3-1a29-40b4-80e3-05b3d26afd74.png)
 
 **Para el resistor de 680 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128009968-fab1eb70-4a3f-4095-81cd-c944ba584ad1.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420314-34366051-a246-4ca1-a8df-6b83d10acb54.png)
+![image](https://user-images.githubusercontent.com/85126275/128012562-592460d3-769b-4f4b-8bf0-4f80730c4ad4.png)
 
 **Para el resistor de 820 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128010028-1a75589f-7346-40a6-8439-2b3daa8285d6.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420395-a9c9622d-f7a3-4666-aada-8fe1c80610d2.png)
+![image](https://user-images.githubusercontent.com/85126275/128012659-175eebeb-5fac-4a04-a444-ff294591aa56.png)
 
 **Para el resistor de 1000 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128010078-204d5a97-4a0e-428e-a504-1593b9cf1624.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420460-560c8f07-5ad7-4808-b52b-6c1f2af0da2d.png)
+![image](https://user-images.githubusercontent.com/85126275/128012719-d35581c8-57e3-4828-b795-91c8c8bdb297.png)
 
 **Para el resistor de 1500 Ω**
 
-Voltaje 
+![image](https://user-images.githubusercontent.com/85126275/128012776-99256a6a-1ab4-4d64-8ad6-312d1ebab416.png)
 
-![image](https://user-images.githubusercontent.com/75383758/128010124-13023765-4292-44b6-a5f0-aa7e241f325f.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420536-7095442f-f18a-4bf1-93f0-7b71a542f76a.png)
 
 **Para el resistor de 1800 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128010178-0bd466bf-ab62-4243-b903-31b5a5a18202.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420602-ce200283-eb99-4240-912c-f02f7f0e8e61.png)
+![image](https://user-images.githubusercontent.com/85126275/128012839-3e5853fe-a305-48d5-b4b2-b911e87c3e75.png)
 
 **Para el resistor de 2200 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128010247-fde93dca-fdde-45f1-8a27-72ed425475a3.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420675-5485401a-657b-4fc4-acaf-141f9a12becc.png)
+![image](https://user-images.githubusercontent.com/85126275/128012926-6e87a139-a242-4b91-a564-9119ef386581.png)
 
 **Para el resistor de 3900 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128010318-36bdd6c9-40ef-4ea3-8c59-163a755c9b58.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420738-2a7a58e3-5893-4c2a-81c2-fd73d1e4afe6.png)
+![image](https://user-images.githubusercontent.com/85126275/128012987-74fdb98e-b64c-4d3f-9898-43f9f0f45b2e.png)
 
 **Para el resistor de 4700 Ω**
 
-Voltaje 
-
-![image](https://user-images.githubusercontent.com/75383758/128010362-8f93617d-1510-48ae-8108-be63324afcb3.png)
-
-Corriente 
-
-![image](https://user-images.githubusercontent.com/85126275/127420827-42a611f6-4a2d-4a19-9256-257338a2df03.png)
+![image](https://user-images.githubusercontent.com/85126275/128013065-46c43859-1a44-40e0-9d4a-6edf75fb875e.png)
 
 3.4.3 Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1
 
