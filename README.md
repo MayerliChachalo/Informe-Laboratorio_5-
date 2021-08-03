@@ -167,7 +167,7 @@ Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
 
 ## 4.  VIDEO
 
-
+https://youtu.be/W2P7WKePnZU
 
 ## 5.  CONCLUCIONES
 
