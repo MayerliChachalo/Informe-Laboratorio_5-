@@ -70,7 +70,7 @@ fuente, RS.
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127961813-1b1b4d18-9fb9-493b-8295-1cc53a379006.png)
+![image](https://user-images.githubusercontent.com/85126275/127424779-e0f20a42-d585-4985-993f-32ff0866764a.png)
 
 Corriente 
 
@@ -80,7 +80,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127961980-b1d9fa2a-5d39-4f53-bc72-55911f3da641.png)
+![image](https://user-images.githubusercontent.com/85126275/127425034-24fdbf14-c914-4380-80d6-4ad09dc0b59c.png)
 
 Corriente 
 
@@ -90,7 +90,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962124-61c0027d-0039-4966-be0e-1c65e1043b7b.png)
+![image](https://user-images.githubusercontent.com/85126275/127425090-ad991fe0-005a-4e2f-a5c3-cd7ccc5d039a.png)
 
 Corriente 
 
@@ -100,7 +100,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962253-b277cb07-eb6a-4ae1-a9e1-6e58c0e9c316.png)
+![image](https://user-images.githubusercontent.com/85126275/127425131-982ed369-02ba-4267-9900-a25ec824b6ea.png)
 
 Corriente 
 
@@ -110,7 +110,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962345-631635cc-3411-4219-9f17-7f59da36eefa.png)
+![image](https://user-images.githubusercontent.com/85126275/127425169-bdc64d8f-8131-4f51-bd2f-a671a8166a84.png)
 
 Corriente 
 
@@ -120,7 +120,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962449-7024bdbf-b9d5-41ee-8bfd-24c7de761b9b.png)
+![image](https://user-images.githubusercontent.com/85126275/127425261-a930a80a-77bf-47c8-9ae7-a5b72273297b.png)
 
 Corriente 
 
@@ -130,7 +130,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962547-6d19dd91-2fc2-4f23-bca7-0a5a266f2e26.png)
+![image](https://user-images.githubusercontent.com/85126275/127425837-d61116e2-ff8a-4be4-83fe-d473f04870e3.png)
 
 Corriente 
 
@@ -140,7 +140,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962675-bf002893-0caa-446c-be71-66aff821a553.png)
+![image](https://user-images.githubusercontent.com/85126275/127425901-f6f48fc9-482e-4d6e-b127-50a8cb5cd41e.png)
 
 Corriente 
 
@@ -150,7 +150,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962763-dae86aae-0cb5-4dea-bd39-e61be9684045.png)
+![image](https://user-images.githubusercontent.com/85126275/127425951-462e86f2-01c0-418f-b701-340cba000483.png)
 
 Corriente 
 
@@ -160,7 +160,7 @@ Corriente
 
 Voltaje 
 
-![image](https://user-images.githubusercontent.com/75383758/127962858-e8899280-9f56-4115-a3cb-57c268e24bc3.png)
+![image](https://user-images.githubusercontent.com/85126275/127426002-854c8a17-3f77-4cc6-a03e-155e2a204338.png)
 
 Corriente 
 
@@ -170,48 +170,58 @@ Corriente
 
 **Para el resistor de 220 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127961823-95fa04a3-9830-43ad-94bc-d1a06f39b8ce.png)
 
 **Para el resistor de 470 Ω** 
 
+![image](https://user-images.githubusercontent.com/85209614/127961971-74f2f31b-447f-4cd5-b6dd-ffcca56f76cd.png)
 
 **Para el resistor de 680 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127962122-69866a47-4781-4aa2-80e3-835d2c598b03.png)
 
 **Para el resistor de 820 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127962424-01eee7a5-c40b-43fa-8f1b-0dcbbd0c5868.png)
 
 **Para el resistor de 1000 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127962973-b61943b6-4249-448d-9204-03ceed234bb0.png)
 
 **Para el resistor de 1500 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127963143-c1400308-115a-47bd-a603-bd9a94e0cdad.png)
 
 **Para el resistor de 1800 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127963329-d067d484-1f2b-4b5e-b7ba-f1133ce7eadb.png)
 
 **Para el resistor de 2200 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127963434-145047cf-0960-417c-ad2b-461d65d9c9cb.png)
 
 **Para el resistor de 3900 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127963531-049e2eca-f80a-41e2-b2ac-7610d9153de0.png)
 
 **Para el resistor de 4700 Ω**
 
+![image](https://user-images.githubusercontent.com/85209614/127963617-e645cd60-1c3e-4c3b-afbf-d9b971275e3e.png)
 
 Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
 
 | RL (Ω) | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teóricamente (W) |
 |  :---: |        :---:          |      :---:         |                  :---:                   |              :---:                  |
-|   **220**  |        10.6           |        2.32          |                                          |                                     |
-|   **470**  |        8.98           |        4.22          |                                          |                                     |
-|   **680**  |        7.98           |        5.43          |                                          |                                     |
-|   **820**  |        7.43           |        6.09          |                                          |                                     |
-|  **1000**  |        6.82           |        6.82          |                                          |                                     |
-|  **1500**  |        5.56           |        8.33          |                                          |                                     |
-|  **1800**  |        5.00           |        9.00          |                                          |                                     |
-|  **2200**  |        4.41           |        9.71          |                                          |                                     |
-|  **3900**  |        2.94           |        11.5          |                                          |                                     |
-|  **4700**  |        2.54           |        11.9          |                                          |                                     |
+|   **220**  |        10.6           |        15          |                  24.6                    |               24.6                  |
+|   **470**  |        8.98           |        15          |                  37.9                    |               37.9                  |
+|   **680**  |        7.98           |        15          |                  43.33                   |               43.33                 |
+|   **820**  |        7.43           |        15          |                  45.25                   |               45.25                 |
+|  **1000**  |        6.82           |        15          |                  46.51                   |               46.51                 |
+|  **1500**  |        5.56           |        15          |                  46.31                   |               46.31                 |
+|  **1800**  |        5.00           |        15          |                   45                     |                45                   |
+|  **2200**  |        4.41           |        15          |                  42.82                   |               42.82                 |
+|  **3900**  |        2.94           |        15          |                  33.72                   |               33.72                 |
+|  **4700**  |        2.54           |        15          |                  30.35                   |               30.35                 |
 
 
 ## 4.  VIDEO
