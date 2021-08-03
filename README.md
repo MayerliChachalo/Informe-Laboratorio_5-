@@ -151,7 +151,7 @@ fuente, RS.
 
 Tabla 6.1 Parámetros eléctricos del circuito de la figura 6.1
 
-| RL (Ω) | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teóricamente (W) |
+| RL (Ω) | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (mW) | Potencia calculada teóricamente (mW) |
 |  :---: |        :---:          |      :---:         |                  :---:                   |              :---:                  |
 |   **220**  |        10.6           |        2.32          |                  24.59                   |               24.6                  |
 |   **470**  |        8.98           |        4.22          |                  37.896                  |               37.9                  |
